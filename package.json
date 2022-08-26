@@ -1,0 +1,19 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloMocha.js",
+  "scripts": {
+    "test": "mocha mocha-task.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "reporter": "^0.1.0"
+  }
+}
